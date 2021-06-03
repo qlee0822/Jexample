@@ -45,3 +45,9 @@ print(list(zip(a, b)))
 c = ['a','b','c']
 d = [1,2,3,4]
 print(list(zip(c, d)))
+
+#pow()
+#제곱한 값을 반환
+print(pow(2,4))
+a = 2**4
+pow(2, 4)
